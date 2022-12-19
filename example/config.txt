@@ -1,0 +1,2 @@
+Prefix plugins/BrayCurtis/example/
+Plugin BrayCurtis inputfile parameters.txt outputfile bc
